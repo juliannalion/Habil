@@ -1,0 +1,289 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Eckert18}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb32fead2816231cf32f7cffdd4eddea}{%
+           family={Eckert},
+           familyi={E\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {B{ö}hlau Verlag}%
+      }
+      \strng{namehash}{eb32fead2816231cf32f7cffdd4eddea}
+      \strng{fullhash}{eb32fead2816231cf32f7cffdd4eddea}
+      \strng{bibnamehash}{eb32fead2816231cf32f7cffdd4eddea}
+      \strng{authorbibnamehash}{eb32fead2816231cf32f7cffdd4eddea}
+      \strng{authornamehash}{eb32fead2816231cf32f7cffdd4eddea}
+      \strng{authorfullhash}{eb32fead2816231cf32f7cffdd4eddea}
+      \strng{editorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Andere Urbanit{ä}ten. Zur Pluralit{ä}t des St{ä}dtischen.}}
+      \field{title}{{Verortung in der Weltprovinz. Zum Verh{ä}tnis von Selbstbild und Wohnort.}}
+      \field{year}{2018}
+      \field{pages}{119\bibrangedash 134}
+      \range{pages}{16}
+    \endentry
+    \entry{Holub18}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1668017bc16c0dbb3c56d62bf299351f}{%
+           family={Holub},
+           familyi={H\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83e4069143395fee2d8ba93c80cc717b}{%
+           family={Rajakovics},
+           familyi={R\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {B{ö}hlau Verlag}%
+      }
+      \strng{namehash}{7a03529981a32a8e6af46517d6bba8a2}
+      \strng{fullhash}{7a03529981a32a8e6af46517d6bba8a2}
+      \strng{bibnamehash}{7a03529981a32a8e6af46517d6bba8a2}
+      \strng{authorbibnamehash}{7a03529981a32a8e6af46517d6bba8a2}
+      \strng{authornamehash}{7a03529981a32a8e6af46517d6bba8a2}
+      \strng{authorfullhash}{7a03529981a32a8e6af46517d6bba8a2}
+      \strng{editorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Andere Urbanit{ä}ten. Zur Pluralit{ä}t des St{ä}dtischen.}}
+      \field{title}{{Direkter Urbanismus. Eine neue Methode f{ü}r urbanes Handeln}}
+      \field{year}{2018}
+      \field{pages}{135\bibrangedash 150}
+      \range{pages}{16}
+    \endentry
+    \entry{Kirsten}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95d28e14d512446a6f90ddf15ce035fd}{%
+           family={R{ü}ther},
+           familyi={R\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {B{ö}hlau Verlag}%
+      }
+      \strng{namehash}{95d28e14d512446a6f90ddf15ce035fd}
+      \strng{fullhash}{95d28e14d512446a6f90ddf15ce035fd}
+      \strng{bibnamehash}{95d28e14d512446a6f90ddf15ce035fd}
+      \strng{authorbibnamehash}{95d28e14d512446a6f90ddf15ce035fd}
+      \strng{authornamehash}{95d28e14d512446a6f90ddf15ce035fd}
+      \strng{authorfullhash}{95d28e14d512446a6f90ddf15ce035fd}
+      \strng{editorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Andere Urbanit{ä}ten. Zur Pluralit{ä}t des St{ä}dtischen.}}
+      \field{title}{{Stadt und Strukturen des Mobilen im (post)kolonialen Afrika}}
+      \field{year}{2018}
+      \field{pages}{89\bibrangedash 118}
+      \range{pages}{30}
+    \endentry
+    \entry{Schmidt18}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {B{ö}hlau Verlag}%
+      }
+      \strng{namehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{fullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{bibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{authorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{authornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{authorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Andere Urbanit{ä}ten. Zur Pluralit{ä}t des St{ä}dtischen.}}
+      \field{title}{{\enquote{Wir sind nie urban gewesen}. Regionale Stadtforschung jenseits des Metrozentrismus}}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 30}
+      \range{pages}{30}
+    \endentry
+    \entry{Schulz18}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f96e31c1492fd44bbc9ec7fbd4ee9af3}{%
+           family={Schulz},
+           familyi={S\bibinitperiod},
+           given={Evelyn},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {B{ö}hlau Verlag}%
+      }
+      \strng{namehash}{f96e31c1492fd44bbc9ec7fbd4ee9af3}
+      \strng{fullhash}{f96e31c1492fd44bbc9ec7fbd4ee9af3}
+      \strng{bibnamehash}{f96e31c1492fd44bbc9ec7fbd4ee9af3}
+      \strng{authorbibnamehash}{f96e31c1492fd44bbc9ec7fbd4ee9af3}
+      \strng{authornamehash}{f96e31c1492fd44bbc9ec7fbd4ee9af3}
+      \strng{authorfullhash}{f96e31c1492fd44bbc9ec7fbd4ee9af3}
+      \strng{editorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Andere Urbanit{ä}ten. Zur Pluralit{ä}t des St{ä}dtischen.}}
+      \field{title}{{Begegnungsraume in Tokio}}
+      \field{year}{2018}
+      \field{pages}{89\bibrangedash 118}
+      \range{pages}{30}
+    \endentry
+    \entry{Wolfmayr18}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a658d4ff00e6107ff541b7962338553a}{%
+           family={Wolfmayr},
+           familyi={W\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5bb9e4ddef9428d3c0655990b9877fa3}{%
+           family={Schmidt-Lauber},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Brigitta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {B{ö}hlau Verlag}%
+      }
+      \strng{namehash}{a658d4ff00e6107ff541b7962338553a}
+      \strng{fullhash}{a658d4ff00e6107ff541b7962338553a}
+      \strng{bibnamehash}{a658d4ff00e6107ff541b7962338553a}
+      \strng{authorbibnamehash}{a658d4ff00e6107ff541b7962338553a}
+      \strng{authornamehash}{a658d4ff00e6107ff541b7962338553a}
+      \strng{authorfullhash}{a658d4ff00e6107ff541b7962338553a}
+      \strng{editorbibnamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editornamehash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \strng{editorfullhash}{5bb9e4ddef9428d3c0655990b9877fa3}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Andere Urbanit{ä}ten. Zur Pluralit{ä}t des St{ä}dtischen.}}
+      \field{title}{{Der falsche Ma{ß}stab. Aushandlungen von Stadtgestalt im Wandel stadtplanerischer Leitbilder}}
+      \field{year}{2018}
+      \field{pages}{89\bibrangedash 118}
+      \range{pages}{30}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

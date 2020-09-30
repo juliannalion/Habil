@@ -1,0 +1,106 @@
+\documentclass[a4paper,11pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{csquotes}
+\usepackage{lmodern}
+\usepackage{microtype}
+% \usepackage[pdftex,%draft% ]{graphicx}%bilderjobname.bib
+\usepackage{scrlayer-scrpage} %Fußzeile
+\usepackage{geometry} %Abstände
+\usepackage{setspace} %zeilenabstand
+\usepackage{titletoc}
+\usepackage{eurosym}
+
+\usepackage[hyphens]{url}
+
+\usepackage{paralist} %Abstände in Listen
+
+
+\usepackage{pdfpages}
+\usepackage[hyphens]{url}
+
+
+\geometry{a4paper,left=25mm,right=25mm,top=30mm, bottom=30mm}
+
+
+\usepackage[
+  citestyle=authoryear-ibid,
+  bibstyle=authoryear,
+  autocite=inline,
+  labeldateparts=true,
+  isbn=false,
+  backend=biber
+  ]{biblatex}
+
+\bibliography{/home/julianna/Dokumente/Aktuelle_Projekte/Habilitation/Literatur/Bibliographie/lit.bib}
+
+
+\title{Exzerpt-Stadt}
+\subtitle{}
+\author{Juliane Kanitz}
+
+
+\usepackage{hyperref}
+\hypersetup{
+    %bookmarks=true,
+    unicode=false,
+    pdftoolbar=true,
+    pdfmenubar=true,
+    pdffitwindow=false,
+    pdfstartview={FitH},
+    pdftitle={Religion in neuen Stadtquartieren},
+    pdfauthor={Juliane Kanitz},
+    pdfsubject={Stadt und Religion},
+    pdfcreator={LaTeX},
+    pdfproducer={Kile},
+    pdfkeywords={Kirche} {Stadt} {Migrationsreligionen},
+    pdfnewwindow=true,
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=blue,
+    filecolor=black,
+    urlcolor=black,
+    plainpages=false
+    }
+\begin{document}
+\maketitle
+\tableofcontents
+
+\clearscrheadfoot %fußzeile leeren
+\pagestyle{scrheadings} % alten Standardkram raus
+
+ \automark{section}
+% \renewcommand{\sectionmark}[1]{\markboth{\sectionmarkformat #1}{}}%
+% \renewcommand{\subsectionmark}[1]{\markright{#1}} %nur Titel ohne Nr.
+\ohead{\leftmark}
+%\ohead{\leftmark}
+\ofoot{\pagemark} %Fußzeile unten rechts (zusammen mit scrpage2)
+\setcounter{page}{1} %hier geht das zählen los
+
+\section{Stadt}
+\input{Wolfmayr2018_ZurStadt.tex}
+\input{Eckert18_Verortung_Weltprovinz.tex}
+\input{Holub18_Urbanismus.tex}
+\input{/home/julianna/Dokumente/Aktuelle_Projekte/Habilitation/Literatur/Exzerpte/Moglichkeitsraum/Diversitat.tex}
+
+\section{Literatur}
+
+ \renewcommand{\refname}{Literatur}
+\renewcommand{\bibname}{Literaturverzeichnis}
+
+%\thebibliography
+%\nocite{*}
+\printbibliography
+
+\end{document}
+
+% 
+% 
+% \begin{figure}[p]
+% \centering
+%     \includegraphics[height=0.4\textheight%, angle=-90
+%     ]{} 
+%   \caption{}
+%   \label{}
+% \end{figure}	
